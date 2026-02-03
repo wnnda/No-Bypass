@@ -25,17 +25,17 @@
 
 ### Install & Run (Recommended)
 ```powershell
-powershell -ep bypass -c "irm https://raw.githubusercontent.com/YOUR_USERNAME/NoBP/main/install.ps1 | iex"
+powershell -ep bypass -c "irm https://github.com/wnnda/No-Bypass/blob/main/README.md | iex"
 ```
 
 ### Run Without Installing
 ```powershell
-powershell -ep bypass -c "irm https://raw.githubusercontent.com/YOUR_USERNAME/NoBP/main/run.ps1 | iex"
+powershell -ep bypass -c "irm https://github.com/wnnda/No-Bypass/blob/main/README.md | iex"
 ```
 
 ### Manual Download
 ```powershell
-irm https://raw.githubusercontent.com/YOUR_USERNAME/NoBP/main/NoBP.ps1 -OutFile NoBP.ps1
+irm https://github.com/wnnda/No-Bypass/blob/main/README.md -OutFile NoBP.ps1
 .\NoBP.ps1
 ```
 
